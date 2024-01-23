@@ -7,7 +7,7 @@ _React Starter_
 Metadata
 
 ```
-  metadataBase: null,
+  	metadataBase: null,
 	title: '',
 	description: ``,
 	applicationName: '',

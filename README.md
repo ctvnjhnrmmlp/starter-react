@@ -1,6 +1,6 @@
-# React Boilerplate
+# React Starters
 
-_React Boilerplate Starters_
+_React Starter_
 
 ## Tailwind
 
